@@ -1,0 +1,85 @@
+/*common*/ 
+body 
+{
+    background-color: #212121;
+}
+
+.name
+{
+    color: aliceblue;
+}
+.name:hover 
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+.name:visited 
+{
+    border : none;
+}
+
+#LinkCollection /* id */
+{
+    background-color: #2F3136; 
+    border: 1px solid #DEA309;
+}
+
+.links /* class */
+{
+    color: aliceblue;
+}
+.links:hover 
+{
+    color: #DEA309;
+    text-decoration: none;
+}
+.links:visited 
+{
+    border : none;
+}
+
+#MainText 
+{
+    background-color: #2F3136;
+    color: aliceblue;
+
+}
+
+/*personal project*/
+.mx-auto h3 
+{
+    text-align: center;
+}
+
+hr
+{
+    background-color: #B6B6B6;
+    border-width: 0.5px;
+}
+
+/*resume*/
+#MainText h2
+{
+    text-align: center;
+}
+
+table
+{
+    text-align: center;
+}
+
+/*contact*/
+.content
+{
+    padding-left: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.box .btn
+{
+    width: 6%; 
+}
+
+
+
