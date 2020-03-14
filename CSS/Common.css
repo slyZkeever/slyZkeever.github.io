@@ -1,4 +1,4 @@
-/*common*/ 
+
 body 
 {
     background-color: #212121;
@@ -44,42 +44,3 @@ body
     color: aliceblue;
 
 }
-
-/*personal project*/
-.mx-auto h3 
-{
-    text-align: center;
-}
-
-hr
-{
-    background-color: #B6B6B6;
-    border-width: 0.5px;
-}
-
-/*resume*/
-#MainText h2
-{
-    text-align: center;
-}
-
-table
-{
-    text-align: center;
-}
-
-/*contact*/
-.content
-{
-    padding-left: 4rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-}
-
-.box .btn
-{
-    width: 6%; 
-}
-
-
-
