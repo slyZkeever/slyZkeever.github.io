@@ -1,16 +1,18 @@
 
 body 
 {
-    background-color: #212121;
+    /*background-color: #212121;*/
+    background-color: #191b1c;
 }
 
 .name
 {
-    color: aliceblue;
+    /*color: aliceblue;*/
+    color: #b2e0fa;
 }
 .name:hover 
 {
-    color: aliceblue;
+    color: #DEA309;
     text-decoration: none;
 }
 .name:visited 
@@ -21,18 +23,27 @@ body
 #LinkCollection /* id */
 {
     background-color: #2F3136; 
+    /*border: 1px solid #DEA309;*/
+
     border: 1px solid #DEA309;
 }
 
 .links /* class */
 {
-    color: aliceblue;
+    color: #b2e0fa;
 }
+
+.link_main
+{
+    color: #DEA309;
+}
+
 .links:hover 
 {
     color: #DEA309;
     text-decoration: none;
 }
+
 .links:visited 
 {
     border : none;
@@ -40,7 +51,13 @@ body
 
 #MainText 
 {
-    background-color: #2F3136;
-    color: aliceblue;
+    /*background-color: #2F3136;*/
+    background-color:#26292b;
+    
+    /*color: aliceblue;*/
+
+    /*color: #b2e0fa;*/
+
+    color: #7bb4e4;
 
 }
